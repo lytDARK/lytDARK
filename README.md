@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lytDARJ&theme=blue-green&locale=zh_Hans&card_width=550)](https://git.io/streak-stats)
+
 <!--
 **lytDARK/lytDARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
